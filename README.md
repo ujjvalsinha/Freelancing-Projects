@@ -16,7 +16,7 @@ This is a news application created using Swift by me as a Freelancer for iOS
 
   Some Key Features:-
 - Latest News
-- categoris wise news
+- categories wise news
 - Inbuilt FM
 ![Screenshot 2020-10-15 at 10 26 42 AM](https://user-images.githubusercontent.com/47413639/96079629-d8e8f980-0ed2-11eb-87c0-62f8ab4d04d2.png)
 
