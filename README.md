@@ -6,7 +6,7 @@ design and i also done some Api intergration and bug fixing on this application 
 
   Some Key Features:-
 - User preference diet palns
-- Training vidios
+- Training videos
 - food Recipies
 
 ![Screenshot 2020-10-15 at 10 15 44 AM](https://user-images.githubusercontent.com/47413639/96079513-98897b80-0ed2-11eb-8a2d-09d1bdf6d27a.png)
